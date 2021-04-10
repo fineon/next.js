@@ -172,6 +172,10 @@ optionally accepts the following advanced properties.
 
 The image fit when using `layout="fill"`.
 
+This prop accepts these string values: `"contain"`, `"cover"`, `"fill"`, `"none"`, `"scale-down"`
+
+For more information on `object-fit`, checkout Mozilla's doc below:
+
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
 
 ### objectPosition
